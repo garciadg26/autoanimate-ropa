@@ -1,4 +1,5 @@
-# Archivo README.md
+﻿# Archivo README.md Actualizado
 *Actualización de archivo para realizar el pull
 
-## Auto animación de pantallas
+## Autoanimate - Pantallas de compras
+* Se creo una separacion entre el demo y el ejercicio
