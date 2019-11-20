@@ -1,3 +1,4 @@
 # Archivo README.md
+*Actualización de archivo para realizar el pull
 
-## Auto animaci�n de pantallas
+## Auto animación de pantallas
